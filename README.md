@@ -1,6 +1,6 @@
 # GIF-Search-Engine-V2.1
 
-GIF Search Engine developed using 
+GIF search engine was developed using
 - HTML 
 - CSS
 - Javascript
